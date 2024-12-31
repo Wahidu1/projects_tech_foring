@@ -1,4 +1,3 @@
-```markdown
 # Task and Comment Management API
 
 This Django project allows you to manage tasks, comments, and project members. It includes API endpoints to perform CRUD operations on tasks and comments within specific projects.
@@ -22,11 +21,11 @@ Follow the steps below to set up the project locally:
 
 ### Installation
 
-1. **Clone the Repository**
+1. **Clone the Repository**  
+   Clone the repository from GitHub:
    ```bash
    git clone https://github.com/Wahidu1/projects_tech_foring.git
    cd projects_tech_foring
-   ```
 
 2. **Create a Virtual Environment**
    ```bash
